@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+div.blau {
+    background-color: blue;
+}
+div.multimedia {
+    display: block;
+}
+div.bajo {
+    background-color: cyan;
+    text-align:center;
+}
